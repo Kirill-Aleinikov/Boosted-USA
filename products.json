@@ -1,0 +1,45 @@
+[
+	{
+		"id": 1,
+		"title": "Rev Tube",
+		"price": ["19.00"] ,
+		"imgSrc": "item1.png"
+	},
+	{
+		"id": 2,
+		"title": "Boosted Rev Stem Catch",
+		"price": ["29.00"],
+		"imgSrc": "item2.png"
+	},
+	{
+		"id": 3,
+		"title": "Stomp Brake Fender",
+		"price": "Sold Out",
+		"imgSrc": "item3.png"
+	},
+	{
+		"id": 4,
+		"title": "Boosted Belt Kit",
+		"price": ["25.00"],
+		"imgSrc": "item4.png"
+	},
+    {
+		"id": 5,
+		"title": "Bearing Service Kit",
+		"price": ["50.00"],
+		"imgSrc": "item5.png"
+	},
+    {
+		"id": 6,
+		"title": "Boosted Pulley / Belt Upgrade Kit",
+		"price": ["75.00"],
+		"imgSrc": "item6.png"
+	},
+    {
+		"id": 7,
+		"title": "Boosted Skid Plates",
+		"price": ["20.00"],
+		"imgSrc": "item7.png"
+	}
+
+]
